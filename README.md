@@ -80,7 +80,7 @@ Target class:\
 
 ### 1️⃣ Clone the repository
 
-    git clone https://github.com/your-username/Fetal-Health-GCN.git
+    git clone https://github.com/Naziyasompalem/fetal-health-GCN.git
     cd Fetal-Health-GCN
 
 ### 2️⃣ Install dependencies
@@ -123,4 +123,4 @@ This project is licensed under the **MIT License**.
 
 If you have any questions, feel free to reach out!\
 **Author:** Naziya\
-**Email:** your-email@example.com
+**Email:** naziyasompalem@gmail.com
