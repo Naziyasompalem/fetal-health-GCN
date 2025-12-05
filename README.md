@@ -23,13 +23,20 @@ The goal is to classify fetal health into three categories: **Normal**,
 
     Fetal-Health-GCN/
     │── data/
-    │── models/
+    │   ├── CTGData
+    │   ├──CTGData_cleaned
+    │   ├──X_test
+    │   ├──X_train
+    │   ├──y_test
+    │   └──y_train
     │── src/
     │   ├── preprocess.py
     │   ├── utils.py
     │   ├── model.py
     │   └── train.py
     │── notebooks/
+    │   ├── GCN3layer
+    │   └── Feature_selection
     │── README.md
     │── requirements.txt
     │── .gitignore
