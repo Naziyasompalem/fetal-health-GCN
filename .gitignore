@@ -1,0 +1,32 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm / VSCode
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files
+*.h5
+*.pt
+*.pkl
+*.joblib
+
+# Logs
+*.log
+
+# Dataset (optional – remove if you want to upload)
+data/
