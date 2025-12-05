@@ -1,3 +1,5 @@
+![Thumbnail](https://github.com/Naziyasompalem/fetal-health-GCN/blob/main/assets/Thumbnail.jpg)
+
 # Fetal Health Prediction using Graph Convolutional Networks (GCNs)
 
 This project predicts fetal health status using Graph Neural Networks
