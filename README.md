@@ -118,19 +118,6 @@ Open:\
 
 ------------------------------------------------------------------------
 
-## 🤝 Contributing
-
-Contributions are welcome!\
-Create a pull request or open an issue if you want to improve something.
-
-------------------------------------------------------------------------
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
-------------------------------------------------------------------------
-
 ## 💬 Contact
 
 If you have any questions, feel free to reach out!\
