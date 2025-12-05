@@ -1,4 +1,7 @@
-![Thumbnail](https://github.com/Naziyasompalem/fetal-health-GCN/blob/main/assets/Thumbnail.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Naziyasompalem/fetal-health-GCN/main/assets/Thumbnail.jpg" 
+       alt="Fetal Health Prediction Thumbnail" width="650">
+</p>
 
 # Fetal Health Prediction using Graph Convolutional Networks (GCNs)
 
